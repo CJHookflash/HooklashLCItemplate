@@ -1,5 +1,5 @@
 homepage: "https://www.hookflash.co.uk"
 documentation: "https://github.com/CJHookflash/HooklashLCItemplate/blob/main/LCIReadME.txt"
 versions:
-  - sha: 8e87b20a96866bbbbb737d2a36a9feb6d78f5d64
+  - sha: f113e6389bd924912448ef0e5b19fedb03f26aad
     changeNotes: "Initial release of AWIN Last Click Identifier with fixes for partial matches and multiple sources."
